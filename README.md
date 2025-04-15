@@ -1,1 +1,1 @@
-# OC-Projet5-Segmentation-Client-
+# OC-Projet5-Classifiez automatiquement des biens de consommation
